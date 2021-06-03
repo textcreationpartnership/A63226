@@ -1,0 +1,499 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The tryals of Thomas Shafto, Edward Sincleere, Richard Ishby, Peter Gray, for felony. And George Bing, for murther At the Marshalsea in Southwark, upon a commission of oyer and terminer, and goal delivery of the High Court of Admiralty of England; on Saturday the 17th. of December, 1687.</title>
+         </titleStmt>
+         <extent>Approx. 14 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A63226</idno><idno type="EEBO-CITATION">99831595</idno>
+  <idno type="VID">36059</idno>
+  <idno type="EEBO-PROQUEST">2240926325</idno>
+  
+            <idno type="STC">Wing T2264</idno>
+            <idno type="STC">ESTC R220171</idno>
+            <idno type="PROQUEST">99831595</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99831595e"/>
+            <note>(EEBO-TCP ; phase 2, no. A63226)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 36059)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2046:40)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The tryals of Thomas Shafto, Edward Sincleere, Richard Ishby, Peter Gray, for felony. And George Bing, for murther At the Marshalsea in Southwark, upon a commission of oyer and terminer, and goal delivery of the High Court of Admiralty of England; on Saturday the 17th. of December, 1687.</title>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed and sold by George Croom, at the Blue-Ball in Thames-street, near Baynard's Castle,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1687]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>The words "Thomas .. Gray," are connected by a right bracket on title page.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Pages stained; print faded.</note>
+                  <note>Reproduction of the original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Trials (Murder) --  England --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  History --  Restoration, 1660-1688 --  Sources --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-02 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Maria Cecilia Caride </label>Sampled and proofread </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Maria Cecilia Caride</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="court_proceedings">
+            <pb facs="tcp:36059:1"/>
+            <pb n="1" facs="tcp:36059:1"/>
+            <head>THE TRYALS OF
+<list>
+                  <item>
+                     <hi>Thomas Shafto,</hi> For Felony.</item>
+                  <item>
+                     <hi>Edward Sincleere,</hi> For Felony.</item>
+                  <item>
+                     <hi>Richard Ishby,</hi> For Felony.</item>
+                  <item>
+                     <hi>Peter Gray,</hi> For Felony.</item>
+                  <item>And <hi>George Bing,</hi> for Murther.</item>
+               </list> AT THE Marshalsea in Southwark, UPON A COMMISSION OF <hi>Oyer</hi> and <hi>Terminer,</hi> and Goal Delivery of the High Court of Admiralty of England; On <hi>Saturday</hi> the 17th. of <hi>December,</hi> 1687.</head>
+            <p>ON <hi>Saturday</hi> the 17th. of <hi>Decem<g ref="char:EOLhyphen"/>ber,</hi> about Nine in the morn<g ref="char:EOLhyphen"/>ing Sir <hi>Richard Raines,</hi> Judge of the <hi>Admiralty</hi>-Court, came to the <hi>Marshalseas,</hi> Captain <hi>William Joynes, Marshal</hi> of the <hi>Admiralty</hi> carrying the Silver-Oare out of the Coach, and <hi>Rich<g ref="char:EOLhyphen"/>ard Selwyn,</hi> his Deputy riding before the Coach with a Tipstaff, he was attend<g ref="char:EOLhyphen"/>ed by Sir <hi>Thomas Pinfold,</hi> Dr. <hi>Brice,</hi> Dr. <hi>Oldis,</hi> Dr. <hi>Littleton,</hi> and several Gentle<g ref="char:EOLhyphen"/>men and Proctors of the <hi>Commons,</hi> The Court being sat, &amp; Proclamation made, a large Commission was read in Latin by Mr. <hi>Thomas Bedford,</hi> the Register; af<g ref="char:EOLhyphen"/>ter which Sir <hi>Richard Raines,</hi> made an excellent Speech concerning the duty of Masters of Ships, and the great Trust that is put into their hands, upon the account of their Merchants and Own<g ref="char:EOLhyphen"/>ers; and what damage all Frauds and Felonies at Sea do bring upon all For<g ref="char:EOLhyphen"/>reign Trade and Commerce; and other matters relating to the business of the day, and giving the Charge. And then came into the Court the Lord Chief Justice <hi>Wright,</hi> attended with Mr. Justice <hi>Allibone,</hi> Baron <hi>Powel,</hi> and Mr. Justice
+<pb n="2" facs="tcp:36059:2"/>
+               <hi>Powel,</hi> Sir <hi>William Dodson,</hi> and several others mentioned in the Commission, and then the <hi>Grand Jury</hi> were Sworn; who were
+<list>
+                  <item>
+                     <hi>Thomas Overman</hi>
+                  </item>
+                  <item>
+                     <hi>Henry Bartlet</hi>
+                  </item>
+                  <item>
+                     <hi>John Bigsby</hi>
+                  </item>
+                  <item>
+                     <hi>William Gilby</hi>
+                  </item>
+                  <item>
+                     <hi>Peter Delanoy</hi>
+                  </item>
+                  <item>
+                     <hi>John Gerrard</hi>
+                  </item>
+                  <item>
+                     <hi>Francis Wilkinson</hi>
+                  </item>
+                  <item>
+                     <hi>William Orwood</hi>
+                  </item>
+                  <item>
+                     <hi>Henry Hawkes</hi>
+                  </item>
+                  <item>
+                     <hi>John Harrison</hi>
+                  </item>
+                  <item>
+                     <hi>Thomas Cooke</hi>
+                  </item>
+                  <item>
+                     <hi>Peter Belvin</hi>
+                  </item>
+                  <item>
+                     <hi>Thomas Hurlock</hi>
+                  </item>
+                  <item>
+                     <hi>William Little</hi>
+                  </item>
+                  <item>
+                     <hi>Thomas Fisher</hi>
+                  </item>
+                  <item>
+                     <hi>Benjamin Chapman</hi>
+                  </item>
+                  <item>
+                     <hi>Richard Cheshire</hi>
+                  </item>
+                  <item>
+                     <hi>Christopher Marshal</hi>
+                  </item>
+                  <item>
+                     <hi>Francis Made Wood<g ref="char:EOLhyphen"/>ward.</hi>
+                  </item>
+               </list>
+            </p>
+            <p>After which, the <hi>Grand Jury</hi> with<g ref="char:EOLhyphen"/>drew, and several Witnesses being Sworn, they were sent to them to be Examined, and within a short space the <hi>Grand Jury</hi> returned and found two Bills, one against <hi>Thomas Shafto, Richard Ishby, Peter Gray,</hi> and <hi>Edward Sincleere,</hi> for Felony, and the other against <hi>George Bing,</hi> for Murther. A third which was against <hi>Bascon Piercy,</hi> for wearing the Kings <hi>Jack,</hi> being a Merchant Ship, was brought in Ignoramus.</p>
+            <p>Then <hi>Thomas Shafto, Richard Ishby, Peter Gray</hi> and <hi>Edward Sincleere,</hi> were brought to the Bar and Arraigned. The Indictment was read, That <hi>Thomas Shafto,</hi> of <hi>New-Castle</hi> upon <hi>Tyne, Peter Gray,</hi> of the same Place, <hi>Richard Ishby,</hi> of <hi>Stapleton</hi> in the County of <hi>York, Edward Sincleere,</hi> of <hi>Sandwich</hi> in <hi>Orkny,</hi> in <hi>Scotland,</hi> on the 17th. of <hi>May,</hi> by Force and Arms, on the High-Sea, in a Maritime Place, about seven Leagues distant from <hi>Torbay,</hi> in the Jurisdiction of the Admiralty of <hi>England,</hi> in the Ship <hi>Exchange of London,</hi> 700 weight of Cloves, value 200 <hi>l.</hi> 40 <hi>Holland</hi> Chee<g ref="char:EOLhyphen"/>ses, value 10 <hi>l.</hi> 300 weight of Nutmegs, value 50 <hi>l.</hi> 400 weight of Pepper, value 14 <hi>l.</hi> 50 <hi>l.</hi> weight of Cinnamon, value 20 <hi>l.</hi> the Goods of certain Persons un<g ref="char:EOLhyphen"/>known, did feloniously take away, <hi>&amp;c.</hi>
+            </p>
+            <p>
+               <hi>Shafto</hi> refused to Plead, till his Money and Writings were restored to him that were delivered to the Justice,<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> so did the rest, saying their Moneys<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> been taken from them, and that<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> had been seven Months in Prison; <hi>M<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>ard Ishby</hi> had Gold and Silver in<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Court, which Justice <hi>Reading</hi> had i<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> Possession: And a Woman coming<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Court, and declaring that she had k<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> his Child and been at 20 <hi>l.</hi> Charge<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Court ordered that what Money<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> would Swear she had Expende<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, sh<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> be paid her, as also all the Charge<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> the Prison; upon which <hi>Richard</hi>
+               <gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> pleaded not Guilty, but the other thr<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> would not Plead; whereupon the C<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> told them the danger of standing M<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> and that if they would not Plead t<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> Law took it for granted they<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> guilty of the Fact: Then the Sent<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> for standing Mute, was read to th<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> and they were sent back to consid<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> it.</p>
+            <p>Then <hi>George Bing</hi> was Arraig<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> and the Indictment read; That <hi>George Bing,</hi> of St. <hi>Martin</hi> in the Fields, d<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <hi>May</hi> last, in a Ship called the <hi>Ble<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+               </hi> near <hi>Surrat</hi> Road, with a Cane,<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 2 <hi>s.</hi> beat and strike, on the Head, Sh<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ders, Back and Arms, <hi>Robert Day,</hi>
+               <gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> the Quarter-deck of the said Ship<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> which sore beating, he was so bru<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> that he lay Languishing till the 20<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <hi>June,</hi> and then Died. To this In<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ment he pleaded not Guilty.</p>
+            <list>
+               <head>Then the <hi>Jury</hi> were Sworn</head>
+               <item>
+                  <hi>John Hitchcock</hi>
+               </item>
+               <item>
+                  <hi>Thomas Gressingham</hi>
+               </item>
+               <item>
+                  <hi>John Champnies</hi>
+               </item>
+               <item>
+                  <hi>Richard Speerman</hi>
+               </item>
+               <item>
+                  <hi>Richard Cotton</hi>
+               </item>
+               <item>
+                  <hi>Gabriel Delcy</hi>
+               </item>
+               <item>
+                  <hi>Joseph Ball</hi>
+               </item>
+               <item>
+                  <hi>Thomas Clifford</hi>
+               </item>
+               <item>
+                  <hi>John Travel</hi>
+               </item>
+               <item>
+                  <hi>John Platton</hi>
+               </item>
+               <item>
+                  <hi>Thomas Stephen</hi>
+               </item>
+               <item>
+                  <hi>George Roberts.</hi>
+               </item>
+            </list>
+            <p>After the <hi>Jury</hi> were Sworn, the In<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ment against <hi>George Bing</hi> was again r<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> and Mr. <hi>Darnel</hi> appeared as Counce<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> the King, by order from the <hi>Att<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+                  <pb n="3" facs="tcp:36059:2"/>
+                  <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>eral,</hi> but there being little Evidence, <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> the Chirurgeon declaring, that by <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>er of <hi>Bing</hi> he opened the said <hi>Day</hi>
+               <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ort time after he was Dead, and <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>nd he died of an Impostume upon <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>he Lungs, which could not be done <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>h a small Cane, that part being de<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ded with Ribs; and beside, he de<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ring he found no black Bruises upon <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>, or any external hurt: The Lieuten<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <hi>Bing</hi> also proving that he sent for <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> D<gap reason="illegible" resp="#murp" extent="2 letters">
+                  <desc>••</desc>
+               </gap>eased to come and stand Centi<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>, (as it was his duty) and he sent <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> word he would not come till he <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>d Dined; and afterward giving him muttering and ill language. Upon the <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ole the Prisoner was brought in not <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ilty.</p>
+            <p>
+               <hi>Richard Ishby, Peter Gray</hi> and <hi>Edward <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>cleere,</hi> were again brought to the Bar, and the Lord Chief Justice promising <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>em they should have Moneys to pay <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> what they owed in the Prison, and what was necessary for them, <hi>Gray</hi> and <hi>
+                  <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>cleere</hi> upon the Indictment being <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>gain read, pleaded not Guilty, <hi>Ishby</hi>
+               <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ving done the same before, and put <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>emselv<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s upon their Tryal.</p>
+            <p>The main Evidence against them, <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>as <hi>Moses Porter,</hi> Carpenter of the said <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ip, though six Witnesses were called and Sworn: The said <hi>Porter</hi> deposed, <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>He being a Confederate with them) <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>at at <hi>Amsterdam</hi> they took in Cloves, Nutmegs, Pepper, and several other <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ings aboard, the Ship <hi>Exchange of Lon<g ref="char:EOLhyphen"/>don, Thomas Shafto</hi> being Master, about <hi>
+                  <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ril</hi> last, where the Master signed and <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>elivered Bills of Lading to deliver <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>e said Goods at <hi>Bordeaux,</hi> and that <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>hey proceeded on their Voyage, and <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>me upon the Coast of <hi>England,</hi> near <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>he Isle of <hi>Wight,</hi> when the Master told <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>e Seamen he must go up to <hi>London</hi> for <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Pass, that they might be known to <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>elong to <hi>England,</hi> otherwise if the <hi>
+                  <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>urks</hi> should meet with them, they <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ould take the Ship and Goods; upon <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>hich account the Master was gone ten or twelve days, and then comes on Board with one <hi>Hartly,</hi> to whom he ordered them to deliver 200 of <hi>Holland</hi> Cheeses: Afterward one <hi>Matthews</hi> was sent for on Board, who went to <hi>Exeter,</hi> and found out one Mr. <hi>Vicary</hi> and Mr. <hi>Yard,</hi> two Tradesmen there; who bar<g ref="char:EOLhyphen"/>gained with the Master for several Goods; that the Prisoners at the Bar took the Goods out of the Bales and Casks, and that in Sacks and smaller par<g ref="char:EOLhyphen"/>cels, they were sent on shore, <hi>Edward Sincleere</hi> going in the Boat with them, and that some time after two Baggs of Money were brought on Board the Ship by the Master, and the Money was di<g ref="char:EOLhyphen"/>vided among them all, in the great Cab<g ref="char:EOLhyphen"/>bin; they order'd the Master a third part, but he seeming not contented, there were five broad Pieces of Gold lying upon the Table, which he had over and above his third part; and eve<g ref="char:EOLhyphen"/>ry one of their shares came to about 47 Pound: Afterward that the Master or<g ref="char:EOLhyphen"/>dered him to bore three holes in the Ship, intending to sink her, to prevent Discovery, and that there was two foot and a half Water in her, when they went ashoar in the Boat, but that he had heard since she was alive, and was taken up by some <hi>Fishermen.</hi>
+            </p>
+            <p>Mr. <hi>Vicary</hi> and Mr. <hi>Yard</hi> were Exami<g ref="char:EOLhyphen"/>ned whether <hi>Edward Sincleere</hi> came a<g ref="char:EOLhyphen"/>long with the Goods with the Master, and they answered in the Affirmative: And the Prisoners had little to say for themselves, but that what they did was by the Masters order, and what money they received was for Wages. Upon the whole <hi>Edward Sincleere</hi> was brought in Guilty, and <hi>Ishby</hi> and <hi>Gray</hi> Acquit<g ref="char:EOLhyphen"/>ted.</p>
+            <p>Then <hi>Thomas Shafto</hi> was brought a<g ref="char:EOLhyphen"/>gain to the Bar, and the Indictment was read to him again, and after much hesitation, he pleaded not Guilty.</p>
+            <pb n="4" facs="tcp:36059:3"/>
+            <list>
+               <head>A third <hi>Jury</hi> was Sworn.</head>
+               <item>
+                  <hi>John Nicholls</hi>
+               </item>
+               <item>
+                  <hi>Thomas Winnicot</hi>
+               </item>
+               <item>
+                  <hi>William Purryer</hi>
+               </item>
+               <item>
+                  <hi>Richard Cannion</hi>
+               </item>
+               <item>
+                  <hi>Joseph Woodward</hi>
+               </item>
+               <item>
+                  <hi>Rawleigh Veren</hi>
+               </item>
+               <item>
+                  <hi>Robert Curtis</hi>
+               </item>
+               <item>
+                  <hi>John Lucas</hi>
+               </item>
+               <item>
+                  <hi>John Bowles</hi>
+               </item>
+               <item>
+                  <hi>Daniel White</hi>
+               </item>
+               <item>
+                  <hi>Robert Dale</hi>
+               </item>
+               <item>
+                  <hi>Thomas Normandy.</hi>
+               </item>
+            </list>
+            <p>Then the Prisoner being set to the Bar, the Indictment was again read, and the Witnesses called. <hi>Moses Porter,</hi> the Carpenter of the Ship, declared again what he had before deposed, and said further, that he believed the Master ne<g ref="char:EOLhyphen"/>ver intended to go for <hi>Bordeaux,</hi> where he was consigned, but would that way be revenged of the <hi>Hollanders,</hi> they ha<g ref="char:EOLhyphen"/>ving before not paid him some Fraight that was due to him.</p>
+            <p>Mr. <hi>Vicary</hi> and Mr. <hi>Yard</hi> deposed, that they bought of the Master <hi>Shafto,</hi> who came along with one <hi>Matthews,</hi> Cinna<g ref="char:EOLhyphen"/>mon, Cloves, Nutmegs, and for 6 <hi>d.</hi> in the pound less than they could buy of the Merchant, upon the account of rea<g ref="char:EOLhyphen"/>dy Money, they paying down to the Master 250 <hi>l.</hi> ready Money, and giv<g ref="char:EOLhyphen"/>ing him a Bill of Exchange for 129 <hi>l.</hi> more, to be paid in <hi>London</hi> at twenty days sight: But that after the Ship was taken up by the <hi>Fishermen</hi> and they found out the roguery of the business, they sent up to <hi>London</hi> to stop the Bill, and to pusue the Master and his Confe<g ref="char:EOLhyphen"/>derates.</p>
+            <p>Some of the Masters own Letters were read, one to <hi>Porter</hi> the Carpenter, to perswade him to go no farther in the business against him, for that he would suffer as well as he.</p>
+            <p>And another Letter to prove the Casting away the Ship upon the ac<g ref="char:EOLhyphen"/>count of Bottomry, which was sent to a Broker at <hi>Amsterdam,</hi> telling him they had lost all at Sea through the bad Weather, and bidding him take care of his Insurance Money,</p>
+            <p>The Prisoner had little to say for him<g ref="char:EOLhyphen"/>self, but that they were his own Goods which he Sold, and some frivolous Ex<g ref="char:EOLhyphen"/>pressions; upon which the Lord Chief Justice summed up the Evidence at large and the <hi>Jury</hi> went out, and stayed a considerable time, and afterward brought him in guilty of selling of Goods, but were not satisfied as to the Felony; which the Court look'd upon to be a strange Verdict: Upon which they were told, that they were <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> enquire as to the matter of Fact, whe<g ref="char:EOLhyphen"/>ther he was guilty of converting and disposing of the Goods of other Men to his own use, or whether they could think in their Consciences (considering all the presumptive circumstances de<g ref="char:EOLhyphen"/>pending) that the Goods were his own. But as to its being Felony, (though they had been sufficiently satisfied as to <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> yet it did not at all concern them for that was matter of Law altogether<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> Then they went out again, and after some stay brought him in Guilty.</p>
+            <p>After which Sir <hi>Richard Raines,</hi> m<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>de to them a Christian Exhortation, and then pronounced Sentence upon <hi>Thomas Shafto</hi> and <hi>Edward Sincleere</hi>
+               <gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hat they should be hanged by the Neck till th<gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> were dead. And after Proclamation made, the Court adjourned to <hi>Doctors-Commons,</hi> till the 20th of <hi>January</hi> n<gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>.</p>
+            <closer>GOD save the KING.</closer>
+         </div>
+         <div type="license">
+            <p>
+               <hi>This may be Printed.</hi>
+            </p>
+            <closer>
+               <signed>R.L.S.</signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON:</hi> Printed and Sold by <hi>George Croom,</hi> at the <hi>Bi<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> Thames-street,</hi> neat <hi>Baynard's-Castle.</hi> 1687</p>
+            <pb facs="tcp:36059:3"/>
+         </div>
+      </back>
+   </text>
+</TEI>
